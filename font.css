@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'FiraGO';
+    src: url(fonts/firago-light.ttf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'FiraGO';
+    src: url(fonts/firago-regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FiraGO';
+    src: url(fonts/firago-medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'FiraGO';
+    src: url(fonts/firago-bold.ttf);
+    font-weight: 700;
+}
